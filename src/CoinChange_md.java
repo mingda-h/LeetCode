@@ -3,6 +3,10 @@ import java.util.HashMap;
 import java.util.List;
 
 
+
+/**
+ * 给定硬币，无限拿取 ，能否凑够指定金额
+ */
 public class CoinChange_md {
     // 主要思想 dp[F] = dp[]
 
